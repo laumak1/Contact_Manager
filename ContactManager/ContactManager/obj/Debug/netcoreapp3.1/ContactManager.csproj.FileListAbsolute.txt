@@ -1,0 +1,14 @@
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\bin\Debug\netcoreapp3.1\ContactManager.exe
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\bin\Debug\netcoreapp3.1\ContactManager.deps.json
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\bin\Debug\netcoreapp3.1\ContactManager.runtimeconfig.json
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\bin\Debug\netcoreapp3.1\ContactManager.runtimeconfig.dev.json
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\bin\Debug\netcoreapp3.1\ContactManager.dll
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\bin\Debug\netcoreapp3.1\ContactManager.pdb
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.AssemblyInfoInputs.cache
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.AssemblyInfo.cs
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.dll
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.pdb
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.genruntimeconfig.cache
+C:\Users\Laurynas\Desktop\ContactManager\ContactManager\bin\Debug\netcoreapp3.1\Contacts.json
